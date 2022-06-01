@@ -1,0 +1,35 @@
+body
+{ 
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 18px;   
+    line-height: 1;   
+} 
+.header-content 
+{   
+    text-align: center; 
+} 
+  .zagolovok 
+{ 
+    font-style: normal; 
+} 
+.ryad 
+{ 
+    font-style: normal;   
+    padding-top: 2px; 
+} 
+   
+.nav-content 
+{   
+    display: flex; 
+    flex-direction: column; 
+} 
+.anchor 
+{ 
+    padding-top: 15px; 
+} 
+.content 
+{ 
+    justify-content: center;   
+    display: flex; 
+    flex-wrap: wrap-reverse; 
+}   
